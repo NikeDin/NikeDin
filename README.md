@@ -1,7 +1,7 @@
 ### <div align="center">👋 Hi, I’m @NikeDin</div>  
   
 
-- 🔭 I’m currently working on [Scooby Bot](https://github.com/NikeDin/scooby.bot)  
+- 🔭 I’m currently working on [Rysed Bot](https://github.com/NikeDin/rysed.bot)  
   
 
 - 🌱 I’m currently learning **Javascript**.  
